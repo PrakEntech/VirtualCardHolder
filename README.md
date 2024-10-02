@@ -44,3 +44,10 @@ This **Virtual Card Holder** project, written in Dart and Flutter, is designed t
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the functionality or add new features.
 
 ## Screenshots
+<p align="center">
+<img src="res/sc1.png" height="400"/>
+<img src="res/sc2.png" height="400"/>
+<img src="res/sc3.png" height="400"/>
+<img src="res/sc4.png" height="400"/>
+<img src="res/sc5.png" height="400"/>
+</p>
